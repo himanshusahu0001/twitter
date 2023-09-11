@@ -3,6 +3,7 @@ import { BsCardImage, BsEmojiSmile } from "react-icons/bs";
 import { RiFileGifLine, RiBarChartHorizontalFill } from "react-icons/ri";
 import { IoMdCalendar } from "react-icons/io";
 import { MdOutlineLocationOn } from "react-icons/md";
+import  Image  from "next/Image";
 
 const style = {
   wrapper: `px-4 flex flex-row border-b border-[#38444d] pb-4`,
