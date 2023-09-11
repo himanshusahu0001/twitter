@@ -1,6 +1,6 @@
 import Widgets from '../components/Widgets';
 import Feed from '../components/home/Feed';
-import Sidebar from '../components/sidebar';
+import Sidebar from '../components/Sidebar';
 
 const style = {
   wrapper:

@@ -1,6 +1,6 @@
 import ProfileHeader from "../components/profile/ProfileHeader";
 import ProfileTweets from "../components/profile/ProfileTweets";
-import Sidebar from "../components/sidebar";
+import Sidebar from "../components/Sidebar";
 import Widgets from "../components/Widgets";
 
 const style = {
